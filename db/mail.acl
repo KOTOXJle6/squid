@@ -1,0 +1,17 @@
+^mail\.ru.*
+e-mail\.ru$
+mail\.yandex\.ru
+passport\.yandex\.ru
+mail\.rambler\.ru
+mail\.google\.com
+gmail\.google\.com
+gmail\.com
+mail\.yahoo\.com
+icloud\.com
+zoho\.com
+inbox\.com.*
+login.aol.com # webmail.aol.com
+protonmail.com
+mailfence.com
+countermail.com
+tutanota.com

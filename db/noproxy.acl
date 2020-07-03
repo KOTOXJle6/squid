@@ -1,0 +1,16 @@
+# Исключения OneDrive
+.windows.net
+.skype.com
+.live.com
+.lync.com
+.office.com
+.office.net
+.dropbox.com
+.sharepoint.com
+.microsoftonline.com
+.microsoft.com
+# Исключения Skype
+#.skype.com
+#.skypeforbusiness.com
+
+
