@@ -1,0 +1,7 @@
+#!/bin/sh
+
+#/sbin/ifdown $1:ucarp
+
+exec 2>/dev/null
+
+/sbin/ip address del "$2"/32 dev "$1"

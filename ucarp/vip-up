@@ -1,0 +1,8 @@
+#!/bin/sh
+
+#/sbin/ifup $1:ucarp
+
+exec 2>/dev/null
+
+/sbin/ip address add "$2"/32 dev "$1"
+
